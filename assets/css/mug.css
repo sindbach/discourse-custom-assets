@@ -151,7 +151,7 @@ body {
 .main-button-red a {
   font-size: 13px;
   color: #fff;
-  background-color: #a12c2f;
+  background-color: #0ad05b;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -167,7 +167,7 @@ body {
 .main-button-yellow a {
   font-size: 13px;
   color: #fff;
-  background-color: #f5a425;
+  background-color: #0ad05b;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -983,7 +983,7 @@ section.upcoming-meetings .categories .main-button-red a {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #a12c2f;
+  color:#044920;
 }
 
 .meeting-item .down-content .date span {
