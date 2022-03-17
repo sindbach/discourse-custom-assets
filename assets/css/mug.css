@@ -772,7 +772,7 @@ services
 }
 
 .services .item {
-  background-image: url(../images/service-item-bg.jpg);
+  background-color: #044920;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
