@@ -549,9 +549,9 @@ header
   margin-top: 30px;
 }
 
-.header-area.header-sticky .nav li a.active {
+/*.header-area.header-sticky .nav li a.active {
   color: #f5a425;
-}
+}*/
 
 @media (max-width: 1200px) {
   .header-area .main-nav .nav li {
@@ -683,8 +683,8 @@ banner
 }
 
 #bg-video {
-    min-width: 80%;
-    min-height: 80vh;
+    min-width: 60%;
+    min-height: 60vh;
     max-width: 100%;
     max-height: 100vh;
     object-fit: cover;
@@ -787,6 +787,10 @@ services
   margin: 0 auto;
 }
 
+.avatar {
+  border-radius: 50%;
+}
+
 .services .item h4 {
   margin-top: 25px;
   margin-bottom: 15px;
@@ -881,7 +885,7 @@ upcoming meetings
 */
 
 section.upcoming-meetings {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(https://developer-hub-prod.s3.amazonaws.com/forums/images-forum/dark-mode-theme/longer-community-background.png);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1100,7 +1104,7 @@ courses
 */
 
 section.our-courses {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(https://developer-hub-prod.s3.amazonaws.com/forums/images-forum/dark-mode-theme/longer-community-background.png);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1318,7 +1322,7 @@ contact us
 */
 
 section.contact-us {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(https://developer-hub-prod.s3.amazonaws.com/forums/images-forum/dark-mode-theme/longer-community-background.png);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1484,7 +1488,7 @@ upcoming meetings page
 */
 
 section.meetings-page {
-  background-image: url(../images/meetings-page-bg.jpg);
+  background-image: url(https://developer-hub-prod.s3.amazonaws.com/forums/images-forum/dark-mode-theme/longer-community-background.png);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
